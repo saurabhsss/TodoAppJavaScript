@@ -1,2 +1,8 @@
-# TodoAppJavaScript
-# TodoAppJavaScript
+# TodoApp
+functionality
+
+Add
+remove 
+edit
+
+
