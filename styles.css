@@ -1,0 +1,46 @@
+#list {
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+   height: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 10px;
+    float: right;
+}
+#spanid {
+    border-style: double;
+    border-width: 2px;
+
+}
+.COMPLETE-todo {
+    color: black;
+    text-decoration: line-through;
+}
+/*#app{*/
+    /*width: 40%;*/
+   /*margin: 0 auto;*/
+
+/*}*/
+
+/*h3*/
+/*{*/
+    /*width: 40%;*/
+    /*margin: 0 auto;*/
+/*}*/
+/*#list{*/
+    /*width: 40%;*/
+    /*margin: 0 auto;*/
+/*}*/
+body{
+    width: 50%;
+    margin: 0 auto;
+}
+#myApp
+{
+    background: linear-gradient( #fc00ff,#00dbde);
+}
